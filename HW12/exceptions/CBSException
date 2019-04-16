@@ -1,7 +1,0 @@
-package expression.exceptions;
-
-public class CBSException extends ParsingException {
-    public CBSException(String message) {
-        super(message);
-    }
-}
